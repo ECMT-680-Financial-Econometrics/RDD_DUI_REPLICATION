@@ -10,6 +10,6 @@ In this repository there is:
 
 hansen_dwi.csv - an Excel file with data used for replication. This is data from administrative records of DUI stops in the state of Washington.
 
-Hansen_DUI_Paper.pdf - The actual paper itself
+hansen-2015-punishment-and-deterrance-evidence-from-drunk-driving.pdf - The actual paper itself
 
 680_Project_Attempt_2(1).ipynb - Our most updated Jupyter notebook file containing our code used for replication and the associated graphs and regression tables. Note that this file is our current working draft and will be continually updated and refined until the final draft is made.
