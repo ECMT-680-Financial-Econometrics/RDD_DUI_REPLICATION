@@ -15,3 +15,5 @@ hansen-2015-punishment-and-deterrance-evidence-from-drunk-driving.pdf - The actu
 680_Project_Attempt_2(1).ipynb - A rough draft of a Jupyter notebook file containing our code used for replication and the associated graphs and regression tables. Note that this file is a draft and will be continually updated and refined until the final draft is made.
 
 680_Project_Attempt_3.ipynb - The most updated draft of our replication, an improved file from Attempt 2.
+
+RDD_Project_ECMT_680.pdf - A draft of our poster presentation giving a basic summary of results.
