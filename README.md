@@ -4,7 +4,7 @@ This repository is a  replication of the paper "Punishment and Detterrence: Evid
 "Regression discontinuity derived
 estimates suggest that having a BAC above the DUI threshold reduces recidivism by up to 2 percentage
 points (17 percent). Likewise having a BAC over the aggravated DUI threshold reduces recidivism
-by an additional percentage point (9 percent)" (Hansen).
+by an additional percentage point (9 percent)" (Hansen). - While we did not exactly replicate these numbers, our results are consistent with these findings.
 
 In this repository there is: 
 
