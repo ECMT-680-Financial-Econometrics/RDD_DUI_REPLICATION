@@ -12,8 +12,8 @@ modified_hansen_data.csv - This is a .csv file used for the replication. The ori
 
 hansen-2015-punishment-and-deterrance-evidence-from-drunk-driving.pdf - The actual paper itself
 
-680_Project_Attempt_2(1).ipynb - A rough draft of a Jupyter notebook file containing our code used for replication and the associated graphs and regression tables. Note that this file is a draft and will be continually updated and refined until the final draft is made.
+RDD_Graphs_MachineLearning.ipynb - This is a .ipynb file containing Python code used for the replication of graphs from the study, as well as our machine learning enhancements of the study.
 
-680_Project_Attempt_3.ipynb - The most updated draft of our replication, an improved file from Attempt 2.
+RDD_Results_Replication.ipynb - This is a .ipynb file containing Python code used for the replication of the actual numerical results of the study. In this file, a Weighted Least Squares (WLS) model is used to estimate the effect of 'dui' and 'agg_dui' on recidivism at 3 different bandwiths: 0.05, 0.025, and our optimal bandwith calculated with machine learning.
 
 RDD_Project_ECMT_680.pdf - A draft of our poster presentation giving a basic summary of results.
