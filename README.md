@@ -1,5 +1,5 @@
 # RDD_DUI_REPLICATION
-This repository is a work-in-progress replication of the paper "Punishment and Detterrence: Evidence From Drunk Driving" by Benjamin Hansen, published in the National Bureau of Economic Research. The study uses the different thresholds for a DUI (0.08 BAC) and aggravated DUI (0.15 BAC) as cutoffs for a Regression Discontinuity Design analysis in order to examine recidivism (the tendency of a criminal to reoffend). 
+This repository is a  replication of the paper "Punishment and Detterrence: Evidence From Drunk Driving" by Benjamin Hansen, published in the National Bureau of Economic Research. The study uses the different thresholds for a DUI (0.08 BAC) and aggravated DUI (0.15 BAC) as cutoffs for a Regression Discontinuity Design analysis in order to examine recidivism (the tendency of a criminal to reoffend). 
 
 "Regression discontinuity derived
 estimates suggest that having a BAC above the DUI threshold reduces recidivism by up to 2 percentage
