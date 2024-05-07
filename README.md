@@ -17,3 +17,7 @@ RDD_Graphs_MachineLearning.ipynb - This is a .ipynb file containing Python code 
 RDD_Results_Replication.ipynb - This is a .ipynb file containing Python code used for the replication of the actual numerical results of the study. In this file, a Weighted Least Squares (WLS) model is used to estimate the effect of 'dui' and 'agg_dui' on recidivism at 3 different bandwiths: 0.05, 0.025, and our optimal bandwith calculated with machine learning.
 
 RDD_Project_ECMT_680(5).pdf - Our poster presentation giving a basic summary of results.
+
+Overleaf link - https://www.overleaf.com/project/66280a399f3a8e93c4046372
+
+Colab link - https://colab.research.google.com/drive/16e0ZZ4Xxw5eNBvn0WCV5vzpKSD4Xo5b6
